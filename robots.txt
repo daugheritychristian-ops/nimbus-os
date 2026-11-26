@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daugheritychristian-ops.github.io/nimbus-os/sitemap.xml
